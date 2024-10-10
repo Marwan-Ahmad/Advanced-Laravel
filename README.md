@@ -31,4 +31,5 @@ In this project, most of the advanced things in Laravel were dealt with:
 15-charts in laravel
 
 16-create package in laravel
+
 17-web scraping
