@@ -1,4 +1,5 @@
 In this project, most of the advanced things in Laravel were dealt with:
+
 1-email send with mailtrip
 
 2-Event and listner
